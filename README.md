@@ -1,4 +1,4 @@
-# Proyects-List for Backend Developer mainly using Python
+# Proyects-List mainly using Python
 
 1. **~~API Rest de Usuarios con FastAPI y MongoDB (CRUD)~~**
 2. **~~Registro y autenticación utilizando el estándar OAuth2 con JWT~~**
